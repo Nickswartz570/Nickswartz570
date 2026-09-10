@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Nick 👋
 
-<!--
-**Nickswartz570/Nickswartz570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student a Baldwin Wallace university majoring in marketing and business analytics and am looking to go into market research
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing a Bachelors in Marketing and Business Analytics at Baldwin Wallace (Expected Graduation: 2028)
+* 🔭 **Current Focus:** Learning, Data Structures, Web Development, Rstudio
+* 🌱 **Currently Building:** Mock Website remake of BW.edu
+* 💡 **Interests:** I am interested in food industry and market analysis
+* ⚡ **Fun Fact:** I run track and field and cross country for my school 
+
+---
+
+### 📌 Featured Projects
+
+| Project Name | Description | Tech Used |
+| Stopwatch Webapp| built on PythonAnywhere using openAI| Flask |
+[(https://nickswartz.pythonanywhere.com/])
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **LinkedIn:** [(https://www.linkedin.com/in/nicholas-swartz-83312235a/)]
+* **Email:** ([nswartz24@bw.edu])
