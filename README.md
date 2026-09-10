@@ -1,6 +1,6 @@
 # Hi there, I'm Nick 👋
 
-* download my resume [here].(https://rawcdn.githack.com/Nickswartz570/Nickswartz570/14e034071e301be1280fbe1d4d3d5b8622f3bd53/NickSwartz_Resume_2026.V2.pdf)
+* download my resume [here].(https://rawcdn.githack.com/Nickswartz570/Nickswartz570/1ad70ca09cf714406cb7f362021263777c2bfa05/NickSwartz_Resume_2026.V2.pdf)
 
 I am a student a Baldwin Wallace university majoring in marketing and business analytics and am looking to go into market research
 
